@@ -19,14 +19,7 @@
             "metadata": {
                 "description": "Location of the setup script."
             },
-            "defaultValue": "https://raw.githubusercontent.com/ecalder6/azure-gaming/master"
-        },
-        "networkID": {
-            "type": "securestring",
-            "metadata": {
-                "description": "Your zero tier network ID."
-            },
-            "defaultValue": ""
+            "defaultValue": "https://raw.githubusercontent.com/drvkmr/azure-gaming/master"
         }
     },
     "variables": {
