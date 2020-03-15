@@ -129,7 +129,7 @@
                 "[variables('virtualNetworkName')]"
             ],
             "sku": {
-                "name": "NV6_Promo",
+                "name": "Standard_NV6_Promo",
                 "capacity": "1"
             },
             "properties": {
